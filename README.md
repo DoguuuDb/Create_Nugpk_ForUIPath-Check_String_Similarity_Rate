@@ -1,0 +1,2 @@
+# Create_Nugpk_ForUIPath-Check_String_Similarity_Rate
+When designing an RPA process, we always test how well our selectors work. There have been times when dynamic selectors did not work. So what should we do in this situation?  When we think that your process has a 5% margin of error, if the selector you want to click does not exist, we would like to reach it when you find an element at or above the similarity ratio you specified. Let's take a look at our package that will provide this.
